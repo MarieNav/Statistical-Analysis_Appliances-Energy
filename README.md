@@ -11,8 +11,6 @@ In this repository, there are :
 - the dataset I worked on (.csv file) and its description (.txt file)
 - my Python code (.ipynb file)
 - the final presentation (.pptx file)
-- the TABLEAU file I worked in (.twb file)
-- the dataset I saved (.xlsx file)
 
 
 ## Project Description
