@@ -14,7 +14,7 @@ In this repository, there are :
 
 
 ## Project Description
-Using advanced python and basics Tableau ressources we learnt those six last weeks, I choosed to work on an appliances energy dataset to put into practice Data Visualization and Statistical analysis.
+Using advanced python ressources we learnt those six last weeks, I choosed to work on an appliances energy dataset to put into practice Data Visualization and Statistical analysis.
 
 
 ## Links
