@@ -14,9 +14,9 @@ In this repository, there are :
 
 
 ## Project Description
-Using advanced python ressources we learnt those six last weeks, I choosed to work on an appliances energy dataset to put into practice Data Visualization and Statistical analysis.
+Using advanced python resources we learnt those six last weeks, I choosed to work on an appliances energy dataset to put into practice Data Visualization and Statistical analysis.
 
 
 ## Links
-[Repository]https://github.com/MarieNav/Statistical-Analysis_Appliances-Energy
-[Dataset]https://archive.ics.uci.edu/ml/datasets/Appliances+energy+prediction
+- [Repository](https://github.com/MarieNav/Statistical-Analysis_Appliances-Energy)
+- [Dataset](https://archive.ics.uci.edu/ml/datasets/Appliances+energy+prediction)
